@@ -1,4 +1,4 @@
-# City Bikes Wrapped - What city bikes reveal about the city and its people
+# Exploring urban life through city bike data
 ![banner_image](banner.jpg)
 
 
