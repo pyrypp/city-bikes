@@ -90,3 +90,5 @@ Therefore, a base 2 logarithm was applied to the values to de-emphasize the outl
 - Incorporating external datasets (e.g. weather data, car data)
 
 _Banner image: Ted McGrath/CC BY-NC-SA 2.0_
+
+_Maps: OpenStreetView contributors_
